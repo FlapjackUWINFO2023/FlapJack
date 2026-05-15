@@ -1,45 +1,70 @@
-# FlapJack
+# Getting Started with Create React App
 
-FlapJack is designing and developing a web app to assist in the education of children ages 8 to 11. We want to develop curiosity and awareness in children at a young age about marine life and human impacts, as well as help them learn in a fun and meaningful way. FlapJack will utilize research, game development, and game design to provide an educational resource for students, teachers, and parents. This project is part of the University of Washington's Informatics Capstone for Winter and Spring 2023.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![Marine Rescue: The Sea-quel](/my-app/public/imgs/Marine_Rescue_The_Sea-quel_Logo.png)
+## Available Scripts
 
-## Contact Information
-- Jun Nguyen - Project Manager, Software Engineer, Character & Assets Artist, Graphic Designer ([GitHub](https://github.com/soshikun), [LinkedIn](https://www.linkedin.com/in/jun-nguyen-4910411aa/))
-- Delaney Edwards - UX Designer, Writer, Environment Artist ([GitHub](https://github.com/delaneyedwards), [LinkedIn](https://www.linkedin.com/in/delaneyledwards/))
-- Aaron Ho - Software Engineer ([GitHub](https://github.com/AaronHoUW), [LinkedIn](https://www.linkedin.com/in/aaron-ho-ba00a1196))
-- Brian Ho - Researcher, Writer, Software Engineer ([GitHub](https://github.com/btho1), [LinkedIn](https://www.linkedin.com/in/brian-ho-967a0923b))
+In the project directory, you can run:
 
-## Presentation
-Our slide deck for presentation can be viewed here: [https://docs.google.com/presentation/d/1IB_CFmyB5FzvSokPNGVuWLipGHELuMevk6bhpkMf5rY/edit?usp=sharing](https://docs.google.com/presentation/d/1IB_CFmyB5FzvSokPNGVuWLipGHELuMevk6bhpkMf5rY/edit?usp=sharing)
+### `npm start`
 
-## Website
-Our website has been deployed via Firebase and can be found here: [https://marine-rescue-seaquel.web.app](https://marine-rescue-seaquel.web.app)
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-## Build and Deploy
-Merge updates from branches into the main branch via pull requests.
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-Checkout to the publishing page branch:
-`git checkout -b publishingPage`
+### `npm test`
 
-Pull from the main branch:
-`git pull origin main`
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-Create the build:
-`npm run build`
+### `npm run build`
 
-Deploy to the website:
-`firebase deploy`
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-Push the new deployed firebase file to the publishing page branch:
-```
-    git add .
-    git commit -m <commit message>
-    git push
-```
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-## Contribute
-Please make a separate branch for your work and submit a pull request. Contributed code must be reviewed and approved by a developer of FlapJack. If approved, the team may merge your contribution.
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-## License
-Code is licensed under the [Apache 2.0 License](https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)).
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
