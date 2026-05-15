@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "./static/css/main.d47b7409.css",
+    "main.js": "./static/js/main.d7175c6c.js",
+    "static/media/aquarium5.svg": "./static/media/aquarium5.0e7db553119826c07cbd.svg",
+    "static/media/aquarium6.svg": "./static/media/aquarium6.40b218159d977cffbb3b.svg",
+    "static/media/aquarium1.svg": "./static/media/aquarium1.6bb7a3f2e0e3cbe8f38e.svg",
+    "static/media/aquarium3.svg": "./static/media/aquarium3.ba3f67533b7cd94157e3.svg",
+    "static/media/aquarium4.svg": "./static/media/aquarium4.bcbc5d3955b6e41bdaa6.svg",
+    "static/media/team.svg": "./static/media/team.78b15a713be5d8a25a18.svg",
+    "static/media/aquarium2.svg": "./static/media/aquarium2.aa630a642ee1666c943d.svg",
+    "static/media/secondlevel.png": "./static/media/secondlevel.7716e13dd2808696a212.png",
+    "static/media/bg-deep-sea-level.png": "./static/media/bg-deep-sea-level.e0fdc6eec2e5b12cc761.png",
+    "static/media/bg-beach-level.png": "./static/media/bg-beach-level.7fac5ab21887525a1756.png",
+    "static/media/thirdlevel.png": "./static/media/thirdlevel.01c66e4eee7616e89f55.png",
+    "static/media/bg-mid-sea.png": "./static/media/bg-mid-sea.6db9b78b66f8c18d0f7b.png",
+    "static/media/bg-beach.png": "./static/media/bg-beach.1e2261c358eff685dc8b.png",
+    "static/media/firstlvl.png": "./static/media/firstlvl.375d48efc159320b48ba.png",
+    "static/media/tutorial-circle.png": "./static/media/tutorial-circle.68ca329207ce1b67b7cf.png",
+    "static/media/misc-textbubble-left.png": "./static/media/misc-textbubble-left.a4955466df78aa45e886.png",
+    "index.html": "./index.html",
+    "main.d47b7409.css.map": "./static/css/main.d47b7409.css.map",
+    "main.d7175c6c.js.map": "./static/js/main.d7175c6c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d47b7409.css",
+    "static/js/main.d7175c6c.js"
+  ]
+}
